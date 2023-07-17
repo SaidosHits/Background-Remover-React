@@ -47,7 +47,7 @@ const App = () => {
       const options = {
         method: 'POST',
         headers: {
-          'X-RapidAPI-Key': "d6470466c8mshd12f4758aad85a5p1635dajsnf915f5d7bd1e",
+          'X-RapidAPI-Key': "You API KEY",
           'X-RapidAPI-Host': 'human-background-removal.p.rapidapi.com'
         },
         body: data
